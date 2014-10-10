@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SQLPlug
 {
     /// <summary>
-    /// first class
+    /// This is Just a mockup service
     /// </summary>
     public class MockupService
     {
