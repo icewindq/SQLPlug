@@ -11,9 +11,11 @@ namespace SQLPlug
     /// </summary>
     public class MockupService
     {
+        public int Id { get; set; }
+
         public MockupService()
         {
-
+            this.Id = 0;
         }
     }
 }
