@@ -16,10 +16,12 @@ namespace SQLPlug
         /// </summary>
         public int Id { get; set; }
 
+        public string Name { get; set; }
+
         public MockupService()
         {
             this.Id = 0;
-
+            this.Name = "";
         }
     }
 }
