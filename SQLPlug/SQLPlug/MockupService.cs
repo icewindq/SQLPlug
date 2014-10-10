@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SQLPlug
 {
+    /// <summary>
+    /// This is Just a mockup service
+    /// </summary>
     public class MockupService
     {
     }
